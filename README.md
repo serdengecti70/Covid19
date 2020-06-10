@@ -8,4 +8,4 @@ depencies:
   flutter_spinkit: "^4.1.2"
 
 
- ![App ShowCase](../master/image/Screenshot_1591795622.png)
+ ![App ShowCase](../master/showcase.png)
